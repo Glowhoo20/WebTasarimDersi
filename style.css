@@ -1,0 +1,44 @@
+#anasayfa{
+    color: red;
+}
+.obje_1{
+    color: orange;
+}
+#adi{
+    background-color: lightgray;
+}
+#submit_button{
+    transform: rotate(101deg);
+}
+#reset_button{
+
+}
+ul li a{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif  ;
+}
+h2 em{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2>em{
+    color: green;
+    filter: opacity(20%);
+}
+h2+h2{
+    color: lightblue;
+}
+a:link{
+    color: aqua;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: purple;
+}
+a:visited{
+    color: gray;
+}
+ul li{
+    list-style-type: none;
+}
